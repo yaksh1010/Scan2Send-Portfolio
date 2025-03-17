@@ -21,7 +21,7 @@ Design: Figma
 Scan2Send is available on the Google Play Store for easy download and use only for a specific company.
 <img width="1425" alt="Screenshot 2025-03-17 at 10 45 33 AM" src="https://github.com/user-attachments/assets/ac5481ff-3864-4118-9f52-115193d16aa9" />
 
-
+## Screenshots
 <img width="392" alt="1" src="https://github.com/user-attachments/assets/8225dff5-01d4-4781-8ea7-af91c4cd0710" />
 <img width="310" alt="2" src="https://github.com/user-attachments/assets/4eae1705-9a00-471b-b148-73dad4dca6ba" />
 <img width="312" alt="3" src="https://github.com/user-attachments/assets/d458500a-5eae-4ff0-b034-2c68b4f9929f" />
@@ -38,5 +38,5 @@ Scan2Send is available on the Google Play Store for easy download and use only f
 
 ## Contact
 For inquiries, collaborations, or support:
-📧 Email: yakshdalwadi1002@example.com
+📧 Email: yakshdalwadi1002@gmail.com
 🔗 LinkedIn: [Yakshraj](https://www.linkedin.com/in/yakshraj-dalwadi-85a940248/)
